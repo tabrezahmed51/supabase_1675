@@ -95,10 +95,10 @@
     "@types/three": "^0.169.0",
     "@types/uuid": "^9.0.8",
     "api-types": "workspace:*",
-    "postcss": "^8.5.3",
+    "postcss": "^8.5.10",
     "react-hook-form": "^7.45.0",
     "tsconfig": "workspace:*",
-    "uuid": "^9.0.1",
+    "uuid": "^14.0.0",
     "zod": "catalog:"
   },
   "license": "MIT"
