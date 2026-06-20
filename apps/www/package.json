@@ -98,7 +98,7 @@
     "postcss": "^8.5.3",
     "react-hook-form": "^7.45.0",
     "tsconfig": "workspace:*",
-    "uuid": "^9.0.1",
+    "uuid": "^14.0.1",
     "zod": "catalog:"
   },
   "license": "MIT"
