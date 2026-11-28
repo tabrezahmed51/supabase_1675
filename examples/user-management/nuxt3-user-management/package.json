@@ -11,6 +11,6 @@
     "@nuxt/devtools": "^4.0.0-alpha.7",
     "@nuxtjs/supabase": "^0.3.6",
     "@types/node": "^18",
-    "nuxt": "^3.21.8"
+    "nuxt": "^4.6.4"
   }
 }
